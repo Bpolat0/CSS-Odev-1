@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    font-family:'Silkscreen', cursive;;
+    background-color: #FEDB39;
+}
+ul {
+    list-style-position:inside;
+    display: inline-block;
+    text-align: left;
+}
+li {
+    position:relative;
+}
+img{
+    width:640px ;
+    height:854px;
+    border-style: solid;
+}
+h1{
+    background-color: #FF2E63
+    ;
+}
+h2{
+    background-color:#252A34 ;
+    color: white;
+}
+h3{
+    background-color: #08D9D6;
+}
+.nav-list{
+    float: left;
+    list-style-type: none;
+    display: block;
+    padding: 14px;
+}
