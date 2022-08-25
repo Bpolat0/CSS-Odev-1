@@ -1,10 +1,10 @@
 # Site Görüntüleri
 ## Ana Sayfa
-![img](/CSS-Odev-1/Images/Anasayfa.png)
+![img](/Images/Anasayfa.png)
 ## Ürünlerimiz
-![img](/CSS-Odev-1/Images/Ürünlerimiz.png)
+![img](/Images/Ürünlerimiz.png)
 ## Hakkımızda
-![img](/CSS-Odev-1/Images/Hakkımızda.png)
+![img](/Images/Hakkımızda.png)
 
 <!DOCTYPE html>
 <html>
